@@ -1,0 +1,16 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Compiled files
+out/
+target/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+
+# Ignore connector jar if you added manually
+mysql-connector-j-*.jar
