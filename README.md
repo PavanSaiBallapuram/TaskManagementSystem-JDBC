@@ -56,6 +56,7 @@ mysql -u root -p < schema.sql
 ```
 This will create the database and required tables automatically.
 
-Cofiguration Steps
+##Cofiguration Steps
+
 ###Step 1: Edit db.properties file
-update your mysql username and password there.
+Update your mysql username and password there.
